@@ -1,0 +1,12 @@
+.btn {
+  background-color: #4CAF50; /* Green */
+  color: rgb(192, 72, 72);
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  transition: 0.3s; /* Smooth color change */
+}
+
+.btn:hover {
+  background-color: #45a049; /* Darker green on hover */
+}
